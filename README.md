@@ -4,7 +4,7 @@
 
 A machine learning-powered web application that predicts whether a student is likely to be placed based on academic and skill-based inputs.
 
-This project uses a Decision Tree model trained on student placement data and provides an interactive Streamlit dashboard for real-time predictions. It also includes complete data analysis, database integration, and visualization workflows.
+This project uses a Random Forest model trained on student placement data and provides an interactive Streamlit dashboard for real-time predictions. It also includes complete data analysis, database integration, and visualization workflows.
 
 The system allows users to input parameters like IQ, academic performance, internships, communication skills, CGPA, and projects to generate placement predictions along with confidence scores.
 
